@@ -10,3 +10,15 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+# react-and-node-conn
+
+This project combines React on the frontend with a Node.js backend. It sets up a full-stack environment with React, Vite for fast development, and Node.js for backend functionality.
+
+## Features:
+- **Frontend**: React with Vite for fast bundling and development.
+- **Backend**: Node.js server handling API requests.
+
+This project is designed to help you quickly set up a full-stack application using React for the frontend and Node.js for the backend.
